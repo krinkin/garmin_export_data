@@ -31,8 +31,8 @@ Make sure you have the following installed on your system:
 
 1. Clone the repository:
    ```bash
-   git clone https://your-repository-url.git
-   cd garmin
+   git clone https://github.com/krinkin/garmin_export_data.git
+   cd garmin_export_data
    ```
 
 2. Create and activate a virtual environment:
@@ -113,11 +113,4 @@ This is a focused tool for Garmin Connect data export. Contributions are welcome
 
 ## License
 
-[Add your license information here]
-
-## Support
-
-For issues or questions related to:
-* Garmin Connect API: Check the [garminconnect library documentation](https://github.com/cyberjunky/python-garminconnect)
-* Data export problems: Review the error messages and check your Garmin Connect credentials
-* LLM analysis: Ensure you're using the `llm_analysis_context` section as a starting point
+This project is licensed under the MIT License
